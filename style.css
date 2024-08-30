@@ -148,7 +148,7 @@ body {
     font-weight: 500;
 }
 .contato__texto{
-    color: #111111;
+    background-color: #000000;
     font-weight:300;
     margin: 1em 0;
   }
