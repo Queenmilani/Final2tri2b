@@ -143,11 +143,12 @@ body {
 }
 
 .contato__titulo {
-    color: #111111;
+    
     font-size: 18px;
     font-weight: 500;
 }
 .contato__texto{
+    color: #111111;
     font-weight:300;
     margin: 1em 0;
   }
